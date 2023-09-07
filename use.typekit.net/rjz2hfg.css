@@ -1,0 +1,31 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * urw-din:
+ *   - http://typekit.com/eulas/00000000000000007735a83d
+ *   - http://typekit.com/eulas/00000000000000007735a849
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-01-27 11:33:24 UTC"}*/
+
+@import url("../p.typekit.net/p5c49.css?s=1&amp;k=rjz2hfg&amp;ht=tk&amp;f=36602.36606&amp;a=2277830&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"urw-din";
+src:url("af/f1d51b/00000000000000007735a83d/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/f1d51b/00000000000000007735a83d/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/f1d51b/00000000000000007735a83d/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din";
+src:url("af/b8eeae/00000000000000007735a849/30/l5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff2"),url("af/b8eeae/00000000000000007735a849/30/d5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff"),url("af/b8eeae/00000000000000007735a849/30/a5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-kepler-std-caption { font-family: "kepler-std-caption",serif; }
+.tk-kepler-std-display { font-family: "kepler-std-display",serif; }
+.tk-urw-din { font-family: "urw-din",sans-serif; }
